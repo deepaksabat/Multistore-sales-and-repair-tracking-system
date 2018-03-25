@@ -119,3 +119,7 @@ Settings
 Note: Only admin can access in this section
 
 This is application settings page.
+
+#Images
+<img src="public/images/1.png">
+<img src="public/images/2.png">
